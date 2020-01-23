@@ -1,7 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/cu.usbmodem1441",
-    "sketch": "src/Button/Button.ino",
-    "output": "../build",
-    "debugger": "jlink"
+    "debugger": "jlink",
+    "sketch": "src/Blink/Blink.ino"
 }
