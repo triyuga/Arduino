@@ -15,19 +15,5 @@ The `/examples.config` dir contains example `.vscode` config files with comments
 
 ## Projects
 
-* [Misc Study]()
-* [Who's using my wasshing machine?!](./projects/whos-using-my-washing-machine.md)
 * [Silly Soundboard](./projects/silly-soundboard.md)
-
-
-# TODO
-
-* Automate `.vscode/arduino.json` `sketch` setting to currently editing file, or confirm that it's not possible...
-* Include a sibling file in sketch upload, referenced by main sketch.
-* Connect speaker/headphones and emit sound...
-
-# Shopping
-
-* 3mm headphone jack module
-* computer speakers
-* power supply for board
+* [Who's using my wasshing machine?!](./projects/whos-using-my-washing-machine.md)
