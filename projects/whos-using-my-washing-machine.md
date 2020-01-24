@@ -1,4 +1,4 @@
-### Who's using my wasshing machine?!
+### Who's using my washing machine?!
 
 ### User Story
 As a paranoid renter in a complex with a shared laundry, I would like to be alerted when anyone uses my washing machine!
