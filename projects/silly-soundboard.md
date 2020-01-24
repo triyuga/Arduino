@@ -7,9 +7,9 @@ Make x 3 units.
 
 ### Links
 
-[Adafruit Audio FX Soundboard](https://learn.adafruit.com/adafruit-audio-fx-sound-board/overview)
-[Retro Soundbard](https://www.youtube.com/watch?v=ujsZka4ymQ8)
-[Add Custom Horn Sounds to ANY CAR // How-To](https://www.youtube.com/watch?v=smhMLsP5fsM)
+* [Adafruit Audio FX Soundboard](https://learn.adafruit.com/adafruit-audio-fx-sound-board/overview)
+* [Retro Soundbard](https://www.youtube.com/watch?v=ujsZka4ymQ8)
+* [Add Custom Horn Sounds to ANY CAR // How-To](https://www.youtube.com/watch?v=smhMLsP5fsM)
 
 # TODO
 
